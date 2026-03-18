@@ -13,16 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->[![wakatime](https://wakatime.com/badge/user/1c7675a3-b1f7-400e-b246-88c9833be599.svg)](https://wakatime.com/@NemBaboulinet)
+-->
+
+[![wakatime](https://wakatime.com/badge/user/1c7675a3-b1f7-400e-b246-88c9833be599.svg)](https://wakatime.com/@NemBaboulinet)
 
 <p align="center">
   <a href="https://wakatime.com/@NemBaboulinet">
     <img src="<a href="https://wakatime.com"><img src="https://wakatime.com/share/@5aadc854-b5f6-44ef-be4a-e18658421b33/986b4b1b-8033-488d-9976-7b13cb844530.png" /></a>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://wakatime.com/@NemBaboulinet">
-    <img src="<a href="https://wakatime.com"><img src="https://wakatime.com/share/@5aadc854-b5f6-44ef-be4a-e18658421b33/d0451c7d-ae39-42d2-95c2-18e5430ff7d9.png" /></a>" />
   </a>
 </p>
