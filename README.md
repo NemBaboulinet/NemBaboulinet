@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://wakatime.com/@NemBaboulinet">
-    <img src="https://wakatime.com/share/@tonNomUtilisateur/8bef2a51-e79e-4481-8738-336bfb61be18.png" />
+    <img src=".. image:: https://wakatime.com/share/@5aadc854-b5f6-44ef-be4a-e18658421b33/986b4b1b-8033-488d-9976-7b13cb844530.png
+    :target: https://wakatime.com/" />
   </a>
 </p>
 
