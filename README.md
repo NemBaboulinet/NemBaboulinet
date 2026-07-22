@@ -1,11 +1,11 @@
 # Bonjour, je suis Kévin Bytebier
 ### Développeur junior (orienté vers le fullstack)
-  www.kevinbytebier.fr
-  https://www.linkedin.com/in/kevin-bytebier-b2aa56362/
-  contact@kevinbytebier.fr
- **Disponible pour alternance**
- Epernay • Reims • Chalons en Champagne • Colamr • Strasbourg
- France entiere si remote possible
+  www.kevinbytebier.fr <br>
+  https://www.linkedin.com/in/kevin-bytebier-b2aa56362/<br>
+  contact@kevinbytebier.fr<br>
+ **Disponible pour alternance**<br>
+ Epernay • Reims • Chalons en Champagne • Colamr • Strasbourg<br>
+ France entiere si remote possible<br>
 
 ---
 
