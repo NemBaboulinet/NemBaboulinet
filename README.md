@@ -1,4 +1,3 @@
-<div align="center">
 # Bonjour, je suis Kévin Bytebier
 ### Développeur junior (orienté vers le fullstack)
   www.kevinbytebier.fr
@@ -7,7 +6,6 @@
  **Disponible pour alternance**
  Epernay • Reims • Chalons en Champagne • Colamr • Strasbourg
  France entiere si remote possible
-</div>
 
 ---
 
