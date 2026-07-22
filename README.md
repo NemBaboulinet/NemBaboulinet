@@ -1,6 +1,49 @@
-## Hi there 👋
+<div align="center">
+# Bonjour, je suis Kévin Bytebier
+### Développeur junior (orienté vers le fullstack)
+  www.kevinbytebier.fr
+  https://www.linkedin.com/in/kevin-bytebier-b2aa56362/
+  contact@kevinbytebier.fr
+ **Disponible pour alternance**
+ Epernay • Reims • Chalons en Champagne • Colamr • Strasbourg
+ France entiere si remote possible
+</div>
 
-NemBaboulinet
+---
+
+## A propos de moi
+
+Après plus de **15 ans d'expérience professionnelle** dans des fonctions techniques et de management, j'ai choisi de me reconvertir dans le développement informatique.
+
+Aujourd'hui, je développe principalement des applications **React / TypeScript** et je m'intéresse particulièrement au **Full-Stack**, au **DevOps** et à l'automatisation.
+
+  **Objectif actuel : intégrer une entreprise en alternance afin de préparer mon Bachelor CDA au CESI.**
+
+---
+
+# Stack
+
+### Front-end
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css,vite" />
+</p>
+
+### Back-end
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,php,postgres,mysql" />
+</p>
+
+### DevOps & Outils
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,bash" />
+</p>
+
+
+
+
 
 [![wakatime](https://wakatime.com/badge/user/1c7675a3-b1f7-400e-b246-88c9833be599.svg)](https://wakatime.com/@NemBaboulinet)
 
