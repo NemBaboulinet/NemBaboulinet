@@ -1,4 +1,12 @@
-# Bonjour, je suis Kévin Bytebier
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                  KÉVIN BYTEBIER                              ║
+║                                                              ║
+║         Full-Stack Developer • DevOps Enthusiast             ║
+║                                                              ║
+║     React • TypeScript • Docker • Linux • Node.js            ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ### Développeur junior (orienté vers le fullstack)
   www.kevinbytebier.fr <br>
   https://www.linkedin.com/in/kevin-bytebier-b2aa56362/<br>
