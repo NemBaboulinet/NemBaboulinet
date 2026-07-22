@@ -1,21 +1,21 @@
-kevin@github:~$ whoami
+kevin@github:~$ whoami<br>
 Kévin Bytebier
 
-kevin@github:~$ stack
-React
-TypeScript
-Node.js
-Docker
-Linux
-PostgreSQL
+kevin@github:~$ stack<br>
+React<br>
+TypeScript<br>
+Node.js<br>
+Docker<br>
+Linux<br>
+PostgreSQL<br>
 
-kevin@github:~$ status
+kevin@github:~$ status<br>
 Looking for an apprenticeship (Bachelor CDA)
 
-kevin@github:~$ location
+kevin@github:~$ location<br>
 Épernay • Reims • Remote (France)
 
-kevin@github:~$ coffee
+kevin@github:~$ coffee<br>
 ██████████ 100%
 
 
