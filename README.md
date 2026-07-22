@@ -3,7 +3,9 @@
   www.kevinbytebier.fr <br>
   https://www.linkedin.com/in/kevin-bytebier-b2aa56362/<br>
   contact@kevinbytebier.fr<br>
+  
  **Disponible pour alternance**<br>
+ 
  Epernay • Reims • Chalons en Champagne • Colamr • Strasbourg<br>
  France entiere si remote possible<br>
 
