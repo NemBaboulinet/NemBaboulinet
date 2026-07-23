@@ -1,6 +1,16 @@
 <div align="center">
 
-#  Salut, moi c'est Kévin Bytebier
+```text
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║                          KÉVIN BYTEBIER                           ║
+║                                                                   ║
+║            Full-Stack Developer • DevOps Enthusiast               ║
+║                                                                   ║
+║        React • TypeScript • Docker • Linux • Node.js              ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
 
 ### Développeur Full-Stack & DevOps Junior
 
