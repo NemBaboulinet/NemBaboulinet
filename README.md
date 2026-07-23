@@ -80,32 +80,9 @@ Objectif : Créer une interface single-page moderne, ultra-rapide et entièremen
 
 Défis actuels : Optimisation des performances de rendu, gestion fine des animations d'interface, et intégration d'un module de filtrage dynamique des projets par compétences (#Front, #DevOps).
 
-Stack : React • TypeScript • Tailwind CSS • Vercel
+Stack : React • TypeScript • Tailwind CSS • Vercel <br>
 🔗 Suivre le développement
 ➡️ https://www.kevinbytebier.fr
-
----
-
-#  Activité GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NemBaboulinet&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NemBaboulinet&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-# ⏱️ Temps de développement
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</div>
 
 ---
 
