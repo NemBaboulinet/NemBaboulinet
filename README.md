@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Salut, moi c'est Kévin Bytebier
+#  Salut, moi c'est Kévin Bytebier
 
 ### Développeur Full-Stack & DevOps Junior
 
@@ -16,17 +16,17 @@
 
 ---
 
-## 🚀 À propos de moi
+##  À propos de moi
 
 Après plus de **15 ans d'expérience professionnelle** dans des fonctions techniques et de management, j'ai choisi de me reconvertir dans le développement informatique.
 
 Aujourd'hui, je développe principalement des applications **React / TypeScript** et je m'intéresse particulièrement au **Full-Stack**, au **DevOps** et à l'automatisation.
 
-🎯 **Objectif actuel : intégrer une entreprise en alternance afin de préparer mon Bachelor CDA au CESI.**
+ **Objectif actuel : intégrer une entreprise en alternance afin de préparer mon Bachelor CDA au CESI.**
 
 ---
 
-# 💻 Stack
+#  Stack
 
 ### Front-end
 
@@ -48,27 +48,45 @@ Aujourd'hui, je développe principalement des applications **React / TypeScript*
 
 ---
 
-# 🚀 Projets
+#  Projets
 
-### 🌐 Portfolio
+###  Évolution d'une Plateforme Industrielle IoT (Stage de fin d'études — DOWNS)
+*React • TypeScript • Tailwind CSS • Jotai • Zod • Highcharts • Ant Design • Docker*
 
-Mon portfolio personnel développé avec React & TypeScript.
+Conception et développement de fonctionnalités Full-Stack pour la plateforme **SAALTO**, spécialisée dans la centralisation et la valorisation de flux de données issus de capteurs IoT.
+* **Architecture Front-End :** Développement d'interfaces dynamiques et scalables avec une gestion d'état atomique performante (`Jotai`).
+* **Fiabilisation des Données :** Implémentation de validations de schémas strictes pour sécuriser les communications avec l'API.
+* **Data Visualization :** Intégration de tableaux de bord analytiques complexes (`Highcharts`) pour le suivi client en temps réel.
+* **Environnement standardisé :** Utilisation de Docker et DevContainers pour isoler l'environnement de développement.
 
-➡️ https://portfolio-lovat-gamma-11.vercel.app
+###  Déploiement & Administration d'Infrastructure Multijoueur Dédiée (Dedicated Server Infrastructure – DevOps & Self-Hosting)
+*Linux (Ubuntu) • Docker • Docker Compose • Bash Scripting • DevOps • Networking (Port Forwarding, LAN/WAN) • CI/CD Logique (Backups automatiques) • Webhooks (API Discord)*
+
+Mise en place et maintenance d'une infrastructure de serveurs de jeux persistants conteneurisée, orientée vers la résilience et l'automatisation.
+* **Conteneurisation :** Isolation complète des services et gestion fine des volumes pour la persistance des données.
+* **Automatisation (Bash) :** Création de scripts pour la gestion du cycle de vie des conteneurs et la planification de stratégies de sauvegarde à chaud.
+* **Réseau & Monitoring :** Configuration du routage réseau (Port Forwarding, NAT/PAT), sécurisation des accès et intégration de Webhooks Discord pour notifier l'état de l'infrastructure en temps réel.
 
 ---
 
-### 📦 Projets en cours
+###  Projets en cours
 
-- Dashboard React
-- Authentification JWT
-- API REST
-- Docker
-- PostgreSQL
+###  Portfolio
+
+ Portfolio Personnel (v2)
+Conception et développement de ma vitrine technologique et professionnelle.
+
+Objectif : Créer une interface single-page moderne, ultra-rapide et entièrement typée, adoptant un design sombre rehaussé de touches vert néon.
+
+Défis actuels : Optimisation des performances de rendu, gestion fine des animations d'interface, et intégration d'un module de filtrage dynamique des projets par compétences (#Front, #DevOps).
+
+Stack : React • TypeScript • Tailwind CSS • Vercel
+🔗 Suivre le développement
+➡️ https://www.kevinbytebier.fr
 
 ---
 
-# 📊 Activité GitHub
+#  Activité GitHub
 
 <div align="center">
 
