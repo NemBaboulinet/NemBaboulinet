@@ -1,6 +1,6 @@
 <div align="center">
 
-```text
+<pre style="display: inline-block; text-align: center; font-family: monospace; background-color: #161b22; padding: 15px; border-radius: 6px; border: 1px solid #30363d; color: #e6edf3;">
 ╔═══════════════════════════════════════════════════════════════════╗
 ║                                                                   ║
 ║                          KÉVIN BYTEBIER                           ║
@@ -10,11 +10,7 @@
 ║        React • TypeScript • Docker • Linux • Node.js              ║
 ║                                                                   ║
 ╚═══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<div align="center">
+</pre>
 
 ### Développeur Full-Stack & DevOps Junior
 
