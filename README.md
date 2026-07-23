@@ -96,7 +96,7 @@ Suivre le développement
 
 ---
 
-##  Ce que j'apporte à une équipe
+#  Ce que j'apporte à une équipe
 * **Rigueur technique :** Pas de code à-peu-près, je blinde mes types et mes validations.
 * **Culture DevOps :** Je ne me contente pas de coder "sur ma machine", je sais packager et déployer.
 * **Autonomie & Résilience :** Face à un bug obscur ou un conteneur qui refuse de démarrer, je cherche jusqu'à ce que ça tourne.
