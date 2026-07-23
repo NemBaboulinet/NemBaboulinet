@@ -104,7 +104,6 @@ Suivre le développement
 #  Objectifs 2026
 
 -  Obtenir mon Bachelor CDA
--  Devenir développeur Full-Stack
 -  Approfondir Docker & DevOps
 -  Contribuer à des projets Open Source
 -  Découvrir Kubernetes et CI/CD
