@@ -1,16 +1,24 @@
-kevin@github:~$ whoami<br>
-  Kévin Bytebier
+```bash
+kevin@github:~$ whoami
+Kévin Bytebier
 
-kevin@github:~$ status<br>
-  Looking for an apprenticeship (Bachelor CDA)
+kevin@github:~$ stack
+React
+TypeScript
+Node.js
+Docker
+Linux
+PostgreSQL
 
-kevin@github:~$ location<br>
-  Épernay • Reims • Remote (France)
+kevin@github:~$ status
+Looking for an apprenticeship (Bachelor CDA)
 
+kevin@github:~$ location
+Épernay • Reims • Remote (France)
 
-
-
-
+kevin@github:~$ coffee
+██████████ 100%
+```
 [![wakatime](https://wakatime.com/badge/user/1c7675a3-b1f7-400e-b246-88c9833be599.svg)](https://wakatime.com/@NemBaboulinet)
 
 <p align="center">
