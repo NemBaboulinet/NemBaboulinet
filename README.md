@@ -90,7 +90,7 @@ Objectif : Créer une interface single-page moderne, ultra-rapide et entièremen
 
 Défis actuels : Optimisation des performances de rendu, gestion fine des animations d'interface, et intégration d'un module de filtrage dynamique des projets par compétences (#Front, #DevOps).
 
-Stack : React • TypeScript • Tailwind CSS • Vercel <br>
+Stack : React • TypeScript • Tailwind CSS • Vercel • Hostinger <br>
 Suivre le développement
 ➡️ https://www.kevinbytebier.fr
 
