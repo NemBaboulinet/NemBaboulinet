@@ -91,18 +91,23 @@ Objectif : Créer une interface single-page moderne, ultra-rapide et entièremen
 Défis actuels : Optimisation des performances de rendu, gestion fine des animations d'interface, et intégration d'un module de filtrage dynamique des projets par compétences (#Front, #DevOps).
 
 Stack : React • TypeScript • Tailwind CSS • Vercel <br>
-🔗 Suivre le développement
+Suivre le développement
 ➡️ https://www.kevinbytebier.fr
 
 ---
 
-# 🎯 Objectifs 2026
+##  Ce que j'apporte à une équipe
+* **Rigueur technique :** Pas de code à-peu-près, je blinde mes types et mes validations.
+* **Culture DevOps :** Je ne me contente pas de coder "sur ma machine", je sais packager et déployer.
+* **Autonomie & Résilience :** Face à un bug obscur ou un conteneur qui refuse de démarrer, je cherche jusqu'à ce que ça tourne.
 
-- ✅ Obtenir mon Bachelor CDA
-- 🚀 Devenir développeur Full-Stack
-- 🐳 Approfondir Docker & DevOps
-- 🌍 Contribuer à des projets Open Source
-- ☁️ Découvrir Kubernetes et CI/CD
+#  Objectifs 2026
+
+-  Obtenir mon Bachelor CDA
+-  Devenir développeur Full-Stack
+-  Approfondir Docker & DevOps
+-  Contribuer à des projets Open Source
+-  Découvrir Kubernetes et CI/CD
 
 ---
 
