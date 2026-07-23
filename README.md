@@ -8,9 +8,9 @@
 
 📍 Épernay • Reims • Remote France entière
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://portfolio-lovat-gamma-11.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](#)
-[![Mail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:bytebier.kevin@orange.fr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://kevinbytebier.fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kevin-bytebier-b2aa56362/)
+[![Mail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:contact@kevinbytebier.fr)
 
 </div>
 
@@ -121,12 +121,12 @@ Stack : React • TypeScript • Tailwind CSS • Vercel
 
 # 📫 Me contacter
 
-📧 **bytebier.kevin@orange.fr**
+📧 **contact@kevinbytebier.fr**
 
 🌐 **Portfolio**
-https://portfolio-lovat-gamma-11.vercel.app
+https://kevinbytebier.fr
 
-💼 **Disponible pour une alternance dès septembre 2026**
+💼 **Disponible**
 [![wakatime](https://wakatime.com/badge/user/1c7675a3-b1f7-400e-b246-88c9833be599.svg)](https://wakatime.com/@NemBaboulinet)
 
 <p align="center">
