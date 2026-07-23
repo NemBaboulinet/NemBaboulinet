@@ -1,6 +1,7 @@
 
-```text
 <div align="center">
+ 
+```text
 ╔═══════════════════════════════════════════════════════════════════╗
 ║                                                                   ║
 ║                          KÉVIN BYTEBIER                           ║
@@ -10,8 +11,10 @@
 ║        React • TypeScript • Docker • Linux • Node.js              ║
 ║                                                                   ║
 ╚═══════════════════════════════════════════════════════════════════╝
-</div>
 ```
+
+</div>
+
 <div align="center">
 
 ### Développeur Full-Stack & DevOps Junior
